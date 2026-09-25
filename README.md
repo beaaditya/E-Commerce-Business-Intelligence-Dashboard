@@ -6,27 +6,6 @@
 
 ---
 
-## 📌 Project Overview
-
-This project simulates a real-world Business Intelligence workflow:
-
-**Raw CSV Data → PostgreSQL → SQL Data Modeling → Power BI + DAX → Business Insights**
-
-The analysis focuses on understanding revenue performance, customer behavior, category/product performance, delivery efficiency, payment behavior, seller performance, reviews and geographic concentration.
-
-### Business questions answered
-
-- How much revenue and how many orders are being generated?
-- How is revenue changing over time?
-- Which product categories and products contribute most to sales?
-- How strong is customer retention and repeat purchasing?
-- Which states generate the most revenue?
-- How efficient is delivery performance?
-- What payment methods and installment patterns are visible?
-- Which sellers and products require attention?
-- What actions can management take from the analysis?
-
----
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
@@ -64,6 +43,29 @@ The analysis focuses on understanding revenue performance, customer behavior, ca
 ### Drill-through Analysis
 
 ![Drillthrough](dashboard%20screenshot/Drillthrough.png)
+
+---
+
+
+## 📌 Project Overview
+
+This project simulates a real-world Business Intelligence workflow:
+
+**Raw CSV Data → PostgreSQL → SQL Data Modeling → Power BI + DAX → Business Insights**
+
+The analysis focuses on understanding revenue performance, customer behavior, category/product performance, delivery efficiency, payment behavior, seller performance, reviews and geographic concentration.
+
+### Business questions answered
+
+- How much revenue and how many orders are being generated?
+- How is revenue changing over time?
+- Which product categories and products contribute most to sales?
+- How strong is customer retention and repeat purchasing?
+- Which states generate the most revenue?
+- How efficient is delivery performance?
+- What payment methods and installment patterns are visible?
+- Which sellers and products require attention?
+- What actions can management take from the analysis?
 
 ---
 
