@@ -27,6 +27,45 @@ The analysis focuses on understanding revenue performance, customer behavior, ca
 - What actions can management take from the analysis?
 
 ---
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](dashboard%20screenshot/Executive%20Dashboard.png)
+
+### Sales Trends
+
+![Sales Trends](dashboard%20screenshot/Sales%20Trends.png)
+
+### Category & Products
+
+![Category & Products](dashboard%20screenshot/Category%20%26%20Products.png)
+
+### Customer Geography
+
+![Customer Geo](dashboard%20screenshot/Customer%20Geo.png)
+
+### Delivery & Logistics
+
+![Delivery & Logistics](dashboard%20screenshot/Delivery%20%26%20Logistics.png)
+
+### Payments
+
+![Payments](dashboard%20screenshot/Payments.png)
+
+### Reviews
+
+![Reviews](dashboard%20screenshot/Reviews.png)
+
+### Sellers
+
+![Sellers](dashboard%20screenshot/Sellers.png)
+
+### Drill-through Analysis
+
+![Drillthrough](dashboard%20screenshot/Drillthrough.png)
+
+---
 
 ## 🎯 Business Objectives
 
@@ -159,46 +198,6 @@ E-Commerce Business Intelligence Dashboard/
 ├── Business_report.pdf
 └── README.md
 ```
-
----
-
-## 📸 Dashboard Preview
-
-### Executive Dashboard
-
-![Executive Dashboard](dashboard%20screenshot/Executive%20Dashboard.png)
-
-### Sales Trends
-
-![Sales Trends](dashboard%20screenshot/Sales%20Trends.png)
-
-### Category & Products
-
-![Category & Products](dashboard%20screenshot/Category%20%26%20Products.png)
-
-### Customer Geography
-
-![Customer Geo](dashboard%20screenshot/Customer%20Geo.png)
-
-### Delivery & Logistics
-
-![Delivery & Logistics](dashboard%20screenshot/Delivery%20%26%20Logistics.png)
-
-### Payments
-
-![Payments](dashboard%20screenshot/Payments.png)
-
-### Reviews
-
-![Reviews](dashboard%20screenshot/Reviews.png)
-
-### Sellers
-
-![Sellers](dashboard%20screenshot/Sellers.png)
-
-### Drill-through Analysis
-
-![Drillthrough](dashboard%20screenshot/Drillthrough.png)
 
 ---
 
